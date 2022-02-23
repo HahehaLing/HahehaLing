@@ -10,10 +10,7 @@
   
 
 - 🧐 I’m currently learning NLP, transfer learning and Graph ML.  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
+    
 
 - 🥾 Interests: hike, travel, and hang out with friends  
   
