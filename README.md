@@ -18,7 +18,7 @@
 <br/>  
 
 <div align="center">
-<img src="./IMG_2799.jpg" align="center" style="width: 100%" />
+<img src="./IMG_0166.JPG" align="center" style="width: 100%" />
 </div>  
 
 <br/>
