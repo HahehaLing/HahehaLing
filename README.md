@@ -15,12 +15,6 @@
 - 🥾 Interests: hike, travel, and hang out with friends  
  
 
-<br/>  
-My adorable, late rabbit.
-<div align="center">
-<img src="./IMG_0166.JPG" align="center" style="width: 100%" />
-</div>  
-
 <br/>
 
 ## Connect with me  
@@ -34,6 +28,12 @@ My adorable, late rabbit.
 </div>  
   
 
+<br/>  
+
+My adorable, late rabbit.
+<div align="center">
+<img src="./IMG_0166.JPG" align="center" style="width: 100%" />
+</div>  
 <br/>  
 
 
