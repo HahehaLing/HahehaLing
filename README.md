@@ -28,14 +28,5 @@
 </div>  
   
 
-<br/>  
-
-My adorable, late rabbit.
-<div align="center">
-<img src="./IMG_0166.JPG" align="center" style="width: 100%" />
-</div>  
-<br/>  
-
-
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
