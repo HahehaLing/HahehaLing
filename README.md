@@ -13,9 +13,15 @@
     
 
 - 🥾 Interests: hike, travel, and hang out with friends  
-  
+ 
 
 <br/>  
+
+<div align="center">
+<img src="./IMG_2799.jpg" align="center" style="width: 100%" />
+</div>  
+
+<br/>
 
 ## Connect with me  
 <div align="center">
