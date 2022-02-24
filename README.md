@@ -16,7 +16,7 @@
  
 
 <br/>  
-This is a photo of my lovely late rabbit.
+My adorable, late rabbit.
 <div align="center">
 <img src="./IMG_0166.JPG" align="center" style="width: 100%" />
 </div>  
