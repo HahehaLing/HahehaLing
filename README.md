@@ -14,7 +14,7 @@
 
 - 🥾 Interests: hike, travel, and hang out with friends  
 
-#### Check out my NLP Kaggle project below!
+  #### Check out my NLP Kaggle project below!
  
 
 <br/>
