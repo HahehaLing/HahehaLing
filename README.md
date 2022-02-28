@@ -16,6 +16,7 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 - 🥾 Interests: hike, travel, and hang out with friends  
 
   #### Check out my NLP Kaggle toxic-severity rater project below!
+  <a href="https://github.com/HahehaLing/Kaggle_ToxicityRater" target="_blank">
  
 
 <br/>
