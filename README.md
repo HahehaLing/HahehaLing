@@ -4,9 +4,10 @@
   
 
 ### <div align="center">Welcome to my Github! I'm Eric (Yue) Ling, a current Data Science master's student at UC Berkeley. </div>  
-  
 
-- 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients.   
+During my biomedical engineering honors undergraduate at Simon Fraser University, I was designed a 15 minutes and resuable cytokine-detecting biosensor – drastically improving on the conventional assay kits that take more than 180 minutes and are single-use. 
+
+- 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients. 
   
 
 - 🧐 I’m currently learning NLP, transfer learning and Graph ML.  
