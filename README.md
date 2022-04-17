@@ -22,7 +22,7 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 
 ## Connect with me  
 <div align="center">
-<a href="https://github.com/HahehaLing/Kaggle_ToxicityRater" target="_blank">
+<a href="https://github.com/HahehaLing/RedditRandomActsofPizza_Predictor" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/ericyueling/" target="_blank">
