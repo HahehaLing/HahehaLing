@@ -15,7 +15,7 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 
 - 🥾 Interests: hike, travel, and hang out with friends  
 
-  #### Check out my NLP projects below!
+  #### Check out my NLP and executive recommendation projects below!
  
 
 <br/>
