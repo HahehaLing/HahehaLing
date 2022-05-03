@@ -17,10 +17,10 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 
   #### Check out my NLP and executive recommendation projects below!
  
- [Predicting whether free-pizza requests would be granted](https://github.com/HahehaLing/RedditRandomActsofPizza_Predictor)
- [Executive summaries for AGM: store expansions](https://github.com/HahehaLing/AGM_ExecutiveSummary)
- [Executive summaries for AGM: meal-delivery options & Peak partnership](https://github.com/HahehaLing/AGM_ExecutiveSummary_Part2)
- [Spectrum of comment-toxicity rater](https://github.com/HahehaLing/Kaggle_ToxicityRater)
+ - [Predicting whether free-pizza requests would be granted](https://github.com/HahehaLing/RedditRandomActsofPizza_Predictor)
+ - [Executive summaries for AGM: store expansions](https://github.com/HahehaLing/AGM_ExecutiveSummary)
+ - [Executive summaries for AGM: meal-delivery options & Peak partnership](https://github.com/HahehaLing/AGM_ExecutiveSummary_Part2)
+ - [Spectrum of comment-toxicity rater](https://github.com/HahehaLing/Kaggle_ToxicityRater)
 
 <br/>
 
