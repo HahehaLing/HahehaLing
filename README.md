@@ -5,7 +5,7 @@
 
 ### <div align="center">Welcome to my Github! I'm Eric (Yue) Ling, a current Data Science master's student at UC Berkeley. </div>  
 
-During my biomedical engineering honors undergraduate at Simon Fraser University, I designed a 15 minutes and resuable cytokine-detecting biosensor – drastically improving on the conventional, single-use assay kits that take more than 180 minutes for detection. 
+During my biomedical engineering honors undergraduate at Simon Fraser University, I designed a 15 minutes and reusable cytokine-detecting biosensor – drastically improving on the conventional, single-use assay kits that take more than 180 minutes for detection. 
 
 - 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients. 
   
