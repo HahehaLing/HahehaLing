@@ -16,7 +16,7 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 - 🥾 Interests: hike, bike, travel, and hang out with friends  
 
   #### Check out my NLP and executive recommendation projects below!
- - [Predicting US domestic flight delays from 2015-2021 (41 million records) using graph, derived and flight features (DataBricks, PySpark) ]
+ - [Predicting US domestic flight delays from 2015-2021 (41 million records) using graph, derived and flight features (DataBricks, PySpark) ](https://github.com/HahehaLing/USDomesticFlightDelayPredict/blob/main/phase4_writeup.ipynb)
  - [Predicting whether free-pizza requests would be granted](https://github.com/HahehaLing/RedditRandomActsofPizza_Predictor)
  - [Executive summaries for AGM: store expansions](https://github.com/HahehaLing/AGM_ExecutiveSummary)
  - [Executive summaries for AGM: meal-delivery options & Peak partnership](https://github.com/HahehaLing/AGM_ExecutiveSummary_Part2)
