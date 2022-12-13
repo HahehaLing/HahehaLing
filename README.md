@@ -7,16 +7,16 @@
 
 During my biomedical engineering honors undergraduate at Simon Fraser University, I designed a 15 minutes and reusable cytokine-detecting biosensor – drastically improving on the conventional, single-use assay kits that take more than 180 minutes for detection. 
 
-- 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients. 
+- 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients.  
   
 
 - 🧐 I’m currently learning NLP, transfer learning and Graph ML.  
     
 
-- 🥾 Interests: hike, travel, and hang out with friends  
+- 🥾 Interests: hike, bike, travel, and hang out with friends  
 
   #### Check out my NLP and executive recommendation projects below!
- 
+ - [Predicting US domestic flight delays from 2015-2021 (41 million records) using graph, derived and flight features (DataBricks, PySpark) ]
  - [Predicting whether free-pizza requests would be granted](https://github.com/HahehaLing/RedditRandomActsofPizza_Predictor)
  - [Executive summaries for AGM: store expansions](https://github.com/HahehaLing/AGM_ExecutiveSummary)
  - [Executive summaries for AGM: meal-delivery options & Peak partnership](https://github.com/HahehaLing/AGM_ExecutiveSummary_Part2)
