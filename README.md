@@ -10,7 +10,7 @@ During my biomedical engineering honors undergraduate at Simon Fraser University
 - 🩺 I’m currently working on EczemaStop, a volunteer project, where I collaborate with local doctors to use statistics to outline the lower quality of life faced by Eczema patients.  
   
 
-- 🧐 I’m currently learning NLP, transfer learning and Graph ML.  
+- 🧐 I’m currently working on, Fair ML (mitigating data bias with GAN), NLP, transfer learning and Graph ML.  
     
 
 - 🥾 Interests: hike, bike, travel, and hang out with friends  
