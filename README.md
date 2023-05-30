@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">Welcome to my Github! I'm Eric (Yue) Ling, a current Data Science master's student at UC Berkeley. </div>  
+### <div align="center">Welcome to my Github! I'm Eric (Yue) Ling, Data Science master's graduate from UC Berkeley. </div>  
 
 During my biomedical engineering honors undergraduate at Simon Fraser University, I [designed a 15 minutes and reusable cytokine-detecting biosensor](https://www.nature.com/articles/s41467-022-35278-2) – drastically improving on the conventional, single-use assay kits that take more than 180 minutes for detection. 
 
